@@ -1,0 +1,4 @@
+# Folder: data/sample_job_desc.txt
+
+Looking for a Python developer experienced in Flask, AWS, and microservices.
+Strong understanding of REST APIs and version control systems (Git).

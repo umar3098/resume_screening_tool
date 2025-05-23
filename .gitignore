@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+venv310/
+
+# Environment variables or secrets
+.env
+*.env
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Streamlit and Flask cache
+.streamlit/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+.eggs/

@@ -1,0 +1,5 @@
+# Folder: data/sample_resume.txt
+
+John Doe
+Experienced Software Engineer with strong Python and JavaScript skills.
+Worked with Flask, Django, and React. Familiar with AWS and Docker.

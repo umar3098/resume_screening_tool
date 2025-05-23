@@ -1,0 +1,4 @@
+# Folder: frontend/requirements.txt
+
+streamlit
+requests
