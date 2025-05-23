@@ -59,7 +59,7 @@ resume_screening_tool/
 
 ### 📌 1. Clone & Set Up Virtual Environment
 
-git clone https://github.com/your-username/resume_screening_tool.git
+git clone https://github.com/umar3098/resume_screening_tool.git
 cd resume_screening_tool
 python -m venv venv310
 source venv310/bin/activate # On Windows: venv310\Scripts\activate
