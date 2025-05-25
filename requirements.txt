@@ -1,0 +1,8 @@
+# Folder: backend/requirements.txt
+
+flask
+spacy
+scikit-learn
+sentence-transformers
+nltk
+pdfminer.six
